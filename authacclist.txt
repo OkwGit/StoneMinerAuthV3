@@ -5,6 +5,7 @@ ddb3786e74e846ff954e3fff17834283
 95369e29a6384dce871f87858604b6bf
 
 # Usernames
+Menumas
 drschmidtson
 BadHitRegOnMeow
 breeesily

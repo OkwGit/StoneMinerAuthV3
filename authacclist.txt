@@ -7,6 +7,7 @@ ddb3786e74e846ff954e3fff17834283
 
 # Usernames
 GuyLuky
+FindingSSH
 Menumas
 drschmidtson
 BadHitRegOnMeow
